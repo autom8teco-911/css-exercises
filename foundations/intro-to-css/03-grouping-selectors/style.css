@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+.BlackButton {
+
+    background-color: black;
+    color: white;
+
+
+
+}
+
+
+
+.YellowButton {
+
+    background-color: yellow;
+    
+    
+}
+
+.BlackButton , .YellowButton {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", "sans-serif";
+
+
+
+}
